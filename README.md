@@ -3,7 +3,7 @@ En el siguiente ejercicio se realizo un cursor que selecciona los campos "id_inm
 
 ## Requerimientos
 - Oracle Database
-- SQL Developer
+- Apex Oracle Workshop
 
 ## Instrucciones:
 
