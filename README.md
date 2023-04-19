@@ -7,7 +7,7 @@ En el siguiente ejercicio se realizo un cursor que selecciona los campos "id_inm
 
 # Instrucciones:
 
-![Instrucciones](Intruccion.png)
+![Instrucciones](https://github.com/Darknesx324/Talleres-SQL/blob/main/SQL/Intruccion.png)
 
 
 # Resultado:
